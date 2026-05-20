@@ -1,1 +1,19 @@
 
+       <style>
+            :root{
+             --bg:#FAF7F0;
+             --forest:#3A5A40;
+             --gold:#D4AF37;
+             --charcol:#1A1A1A;
+             --teal:#49A94;
+            }
+                
+            body{
+                margin:0;
+                background-color: var(--bg);
+                font-family:sans-serif;
+                color:var(--charcol);
+                text-align:center;
+                overflow-x:hidden;
+            }
+        </style>
