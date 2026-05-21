@@ -6,7 +6,7 @@
 }
 
 .logo h2{
-      font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size:40px;
     font-weight:800;
     color:#2f5b45;
@@ -53,11 +53,12 @@ p{
     align-items:center;
     flex-wrap:wrap;
    
-    justify-content: space-around;}
+    justify-content: space-around;
+    margin-top:40px;
+}
 
-    .col-2{
-        flex-basis: 50%;
-        min-width:300px;
-        
-    }
-</style>
+.col-2{
+    flex-basis: 50%;
+    min-width:300px;
+    padding-left:30px;
+}
